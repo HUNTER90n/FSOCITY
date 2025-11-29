@@ -10,7 +10,7 @@ print("FIRST REQUIRMENT IS TO FOLLOW US ON TIKTOK")
 time.sleep(3)
 print("HERE IS OUR TIKTOK ID")
 time.sleep(2)
-print("@dexter_the_king_69")
+print("@fsocity_69")
 webbrowser.open("https://www.tiktok.com/@dexter_the_king_69")
 url = "https://www.tiktok.com/@dexter_the_king_69"
 os.system(f'am start -a android.intent.action.VIEW -d "{url}"')
