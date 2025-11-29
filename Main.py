@@ -10,6 +10,8 @@ print("FIRST REQUIRMENT IS TO FOLLOW US ON TIKTOK")
 time.sleep(3)
 print("HERE IS OUR TIKTOK ID")
 time.sleep(2)
+print("Also Like all videos")
+time.sleep(4)
 print("@fsocity_69")
 webbrowser.open("https://www.tiktok.com/@dexter_the_king_69")
 url = "https://www.tiktok.com/@dexter_the_king_69"
