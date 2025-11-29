@@ -6,4 +6,7 @@ $ git clone https://github.com/HUNTER90n/FSOCITY.git
 $ pip install colorama
 $ cd FSOCITY
 $ python3 FSOCITY.py
-<pre> ```git clone https://github.com/HUNTER90n/FSOCITY.git  pip install colorama cd FSOCITY python3 FSOCITY.py ``` </pre>
+<pre> git clone https://github.com/HUNTER90n/FSOCITY.git
+  pip install colorama
+  cd FSOCITY
+  python3 FSOCITY.py  </pre>
