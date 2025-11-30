@@ -7,7 +7,8 @@ $ pip install colorama
 $ cd FSOCITY
 $ python3 FSOCITY.py  </pre>
 #Requirements
-<pre> $ pip install colorama  $ pip install pyfiglet </pre>
+<pre> $ pip install colorama 
+$ pip install pyfiglet </pre>
 WORKS ON ANY SYATEM.
 LINUX 
 WINDOWS POWER SHELL
